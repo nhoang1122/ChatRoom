@@ -1,0 +1,13 @@
+.nav {
+    background-color: #6A8E7F;
+    height: 10vh;
+    width: 95vw;
+
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.heading {
+    color:white
+}

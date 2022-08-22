@@ -1,0 +1,14 @@
+.logout {
+    background-color: gray;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    height: 50px;
+
+    align-self: center;
+
+}
+
+button:hover {
+    background-color: blue;
+}

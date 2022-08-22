@@ -1,0 +1,27 @@
+form {
+    margin-top: 20px;
+    height: 14px;
+    width: 100%;
+    max-width: 720px;
+    display: flex;
+    align-self: center;
+    margin-bottom: 10px;
+}
+
+input {
+    width: 90%;
+    height: 15px;
+    align-self: center;
+}
+
+.sendBtn {
+    width: 20%;
+    height: 25px;
+    background-color: gray ;
+    color: white;
+    border: none;
+
+    align-self: center;
+    margin-left: 5px;
+    border-radius: 10px;
+}
