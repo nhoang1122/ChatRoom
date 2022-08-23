@@ -9,6 +9,10 @@ import './Styles/SignIn.css'
 const googleSignIn = () => {
     const provider = new GoogleAuthProvider()
     signInWithRedirect(auth,provider)
+
+    console.log("PROVIDER : ",provider)
+    console.log("AUTH : ",auth)
+    console.log("SIGN ON : ",signInWithRedirect(auth,provider))
 }
 
 const SignIn = () => {
